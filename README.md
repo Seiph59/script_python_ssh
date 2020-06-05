@@ -1,6 +1,6 @@
 # script_python_ssh
 Script Python to interact with a server via SSH using Paramiko
-Paramiko documentation: https://docs.paramiko.org/en/stable
+* Paramiko documentation: https://docs.paramiko.org/en/stable
 
 # Dependance
 
